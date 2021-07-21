@@ -1,2 +1,2 @@
-# new_repo_for_demo
+# New Repository
 This is a new repository for demonstration
